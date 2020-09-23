@@ -1,0 +1,16 @@
+{
+  "name": "insuretech",
+  "version": "1.0.0",
+  "description": "An awesome API to review insurance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
