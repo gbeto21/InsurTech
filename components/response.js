@@ -8,3 +8,16 @@ exports.success = function (req, res, data, status) {
         body: body
     })
 }
+
+exports.error = function (req, res, message, status) {
+
+    let statusCode = status || 500
+    let statusMessae = message || 'Internal server error'
+
+    res.status(statusCode).send({
+        error: true,
+        status: statusCode,
+        body: statusMessae
+    })
+
+}
