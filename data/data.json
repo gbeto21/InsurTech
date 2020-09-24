@@ -1,515 +1,602 @@
 [
     {
-        "_id": "5f6a910ec051fd9835df43ea",
-        "index": 0,
-        "guid": "1e06deb5-2ef8-48ad-b129-ccbd81476834",
-        "isActive": false,
-        "balance": "$1,630.32",
-        "picture": "http://placehold.it/32x32",
-        "age": 26,
-        "eyeColor": "green",
-        "name": {
-            "first": "Gail",
-            "last": "Goff"
-        },
-        "company": "XIXAN",
-        "email": "gail.goff@xixan.name",
-        "phone": "+1 (914) 455-2187",
-        "address": "953 Boardwalk , Cornfields, Virgin Islands, 7385",
-        "about": "Occaecat ex duis est enim excepteur nulla. Aliqua excepteur et aliqua elit irure nulla proident culpa fugiat. Magna commodo exercitation non ex officia excepteur deserunt aliquip.",
-        "registered": "Tuesday, April 21, 2020 6:45 PM",
-        "latitude": "-57.89112",
-        "longitude": "-94.839048",
-        "tags": [
-            "ea",
-            "occaecat",
-            "sunt",
-            "aliquip",
-            "et"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Aline Bauer"
-            },
-            {
-                "id": 1,
-                "name": "Adele Mcneil"
-            },
-            {
-                "id": 2,
-                "name": "Hughes Roman"
-            }
-        ],
-        "greeting": "Hello, Gail! You have 6 unread messages.",
-        "favoriteFruit": "strawberry"
+       "_id":"5f5141984de85b2724b9bb96",
+       "brand":"Ford",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"1,614.61",
+       "extraCoveragePrice":"103.01",
+       "yearRange":[
+          2007,
+          2015
+       ]
     },
     {
-        "_id": "5f6a910ee8a64a8f0bb9dc66",
-        "index": 1,
-        "guid": "52928e0c-cd2f-4215-bd49-b2853fac603c",
-        "isActive": true,
-        "balance": "$3,306.16",
-        "picture": "http://placehold.it/32x32",
-        "age": 31,
-        "eyeColor": "brown",
-        "name": {
-            "first": "Britney",
-            "last": "Gill"
-        },
-        "company": "OZEAN",
-        "email": "britney.gill@ozean.net",
-        "phone": "+1 (942) 481-3440",
-        "address": "213 Division Avenue, Homeland, Puerto Rico, 5163",
-        "about": "Anim ipsum in consectetur ullamco non commodo mollit anim reprehenderit aute ullamco. Laborum Lorem laboris adipisicing nulla eu non ipsum sunt ut veniam labore. Excepteur qui incididunt in sunt pariatur mollit. Do irure deserunt nisi enim ea ut fugiat nostrud qui proident culpa.",
-        "registered": "Sunday, November 19, 2017 12:47 PM",
-        "latitude": "-28.593659",
-        "longitude": "87.70012",
-        "tags": [
-            "laboris",
-            "consectetur",
-            "proident",
-            "duis",
-            "ad"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Kerr May"
-            },
-            {
-                "id": 1,
-                "name": "Ola Riddle"
-            },
-            {
-                "id": 2,
-                "name": "Lopez Michael"
-            }
-        ],
-        "greeting": "Hello, Britney! You have 10 unread messages.",
-        "favoriteFruit": "strawberry"
+       "_id":"5f514198b1c986601b241390",
+       "brand":"GMC",
+       "coverageType":"High",
+       "company":"MAPFRE",
+       "price":"2,251.04",
+       "extraCoveragePrice":"309.81",
+       "yearRange":[
+          2006,
+          2013
+       ]
     },
     {
-        "_id": "5f6a910e7de21f1b68ef7a99",
-        "index": 2,
-        "guid": "303864db-51fc-40bb-8b3c-6765b7224583",
-        "isActive": true,
-        "balance": "$1,452.35",
-        "picture": "http://placehold.it/32x32",
-        "age": 30,
-        "eyeColor": "green",
-        "name": {
-            "first": "Anthony",
-            "last": "Holman"
-        },
-        "company": "COMTOURS",
-        "email": "anthony.holman@comtours.io",
-        "phone": "+1 (984) 534-2039",
-        "address": "712 Fane Court, Utting, Louisiana, 7754",
-        "about": "Eiusmod tempor aute eiusmod ea dolore minim sint occaecat amet ea officia duis sit qui. Dolore dolor do ipsum nostrud fugiat do excepteur deserunt dolore tempor duis cupidatat culpa. Lorem nostrud ipsum nostrud minim tempor sunt incididunt deserunt. Fugiat deserunt culpa voluptate veniam adipisicing reprehenderit eu aliquip cupidatat mollit irure. Voluptate cillum cillum elit aliquip eiusmod dolore eiusmod excepteur commodo aliquip proident reprehenderit quis. Dolor cillum do amet eu eu pariatur est labore aute proident.",
-        "registered": "Wednesday, February 6, 2019 10:20 AM",
-        "latitude": "75.750755",
-        "longitude": "-155.049006",
-        "tags": [
-            "esse",
-            "consequat",
-            "magna",
-            "amet",
-            "nisi"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Rodgers Webb"
-            },
-            {
-                "id": 1,
-                "name": "Julia Neal"
-            },
-            {
-                "id": 2,
-                "name": "Marylou Johnston"
-            }
-        ],
-        "greeting": "Hello, Anthony! You have 9 unread messages.",
-        "favoriteFruit": "apple"
+       "_id":"5f5141985f63024f5458d448",
+       "brand":"GMC",
+       "coverageType":"Mid",
+       "company":"MAPFRE",
+       "price":"1,754.41",
+       "extraCoveragePrice":"247.88",
+       "yearRange":[
+          2002,
+          2010
+       ]
     },
     {
-        "_id": "5f6a910e220fd335989c8877",
-        "index": 3,
-        "guid": "f2f60d7a-ac74-4f6d-8a99-427c575515f7",
-        "isActive": false,
-        "balance": "$3,949.99",
-        "picture": "http://placehold.it/32x32",
-        "age": 32,
-        "eyeColor": "blue",
-        "name": {
-            "first": "Luz",
-            "last": "Levy"
-        },
-        "company": "DIGIGEN",
-        "email": "luz.levy@digigen.ca",
-        "phone": "+1 (890) 573-2145",
-        "address": "377 Cadman Plaza, Frystown, Texas, 7336",
-        "about": "Officia nisi quis amet exercitation laboris velit culpa ea esse. Anim id magna voluptate irure elit ullamco Lorem ea eiusmod deserunt eiusmod nulla. Laborum cillum eiusmod voluptate consectetur qui magna sit id deserunt pariatur. Aliquip labore culpa qui labore ea quis pariatur anim incididunt. In ullamco fugiat qui in commodo amet voluptate. Sit dolor eiusmod ea veniam nostrud eiusmod veniam velit cillum nostrud irure irure pariatur qui. Esse aliquip cupidatat ullamco ea ipsum exercitation magna aute pariatur nostrud qui.",
-        "registered": "Sunday, August 26, 2018 6:01 PM",
-        "latitude": "10.671982",
-        "longitude": "117.089154",
-        "tags": [
-            "velit",
-            "anim",
-            "enim",
-            "enim",
-            "consequat"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Lilia Copeland"
-            },
-            {
-                "id": 1,
-                "name": "Marla Camacho"
-            },
-            {
-                "id": 2,
-                "name": "Merrill Heath"
-            }
-        ],
-        "greeting": "Hello, Luz! You have 7 unread messages.",
-        "favoriteFruit": "apple"
+       "_id":"5f514198a7a09e1c402e9575",
+       "brand":"Dodge",
+       "coverageType":"High",
+       "company":"MAPFRE",
+       "price":"2,380.88",
+       "extraCoveragePrice":"291.51",
+       "yearRange":[
+          2002,
+          2012
+       ]
     },
     {
-        "_id": "5f6a910e75ac3abac2829690",
-        "index": 4,
-        "guid": "caa2caae-d09f-4e2d-be6b-10a48f064a07",
-        "isActive": true,
-        "balance": "$2,432.26",
-        "picture": "http://placehold.it/32x32",
-        "age": 24,
-        "eyeColor": "blue",
-        "name": {
-            "first": "Nelda",
-            "last": "Patton"
-        },
-        "company": "MELBACOR",
-        "email": "nelda.patton@melbacor.tv",
-        "phone": "+1 (833) 436-3520",
-        "address": "771 Hampton Avenue, Eden, North Dakota, 8003",
-        "about": "Voluptate aute qui commodo elit commodo do sunt aliquip laboris culpa. Sit mollit magna est culpa dolor ea laborum est do cupidatat magna irure mollit anim. Sit labore Lorem ipsum amet. Eiusmod exercitation cillum incididunt dolore tempor sint enim sit nulla ut.",
-        "registered": "Monday, February 3, 2020 3:55 AM",
-        "latitude": "5.416266",
-        "longitude": "-167.650278",
-        "tags": [
-            "occaecat",
-            "esse",
-            "nostrud",
-            "tempor",
-            "do"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Long Owens"
-            },
-            {
-                "id": 1,
-                "name": "Kathy Lowe"
-            },
-            {
-                "id": 2,
-                "name": "Jessie Avila"
-            }
-        ],
-        "greeting": "Hello, Nelda! You have 10 unread messages.",
-        "favoriteFruit": "banana"
+       "_id":"5f5141983e5b3e369fff4745",
+       "brand":"Chevrolet",
+       "coverageType":"High",
+       "company":"Seguros Monterrey",
+       "price":"2,731.08",
+       "extraCoveragePrice":"379.47",
+       "yearRange":[
+          2004,
+          2018
+       ]
     },
     {
-        "_id": "5f6a910e6d608c07be7f936f",
-        "index": 5,
-        "guid": "b40b91e4-359b-40a6-8510-8afee1968ea1",
-        "isActive": true,
-        "balance": "$2,984.39",
-        "picture": "http://placehold.it/32x32",
-        "age": 22,
-        "eyeColor": "brown",
-        "name": {
-            "first": "Wilcox",
-            "last": "Oconnor"
-        },
-        "company": "EXOSTREAM",
-        "email": "wilcox.oconnor@exostream.biz",
-        "phone": "+1 (866) 510-3260",
-        "address": "893 Dunne Court, Strykersville, Tennessee, 8703",
-        "about": "Laboris est enim laboris nulla enim tempor cillum ipsum commodo nisi consequat amet. Commodo Lorem duis cillum dolore et excepteur laborum aute ullamco ullamco. Ex irure in ad qui do deserunt proident sunt labore nulla voluptate. Ad velit non velit commodo eiusmod ea quis sunt esse mollit proident elit incididunt. Ipsum aliqua est cillum est minim irure culpa voluptate qui cillum ex laboris velit.",
-        "registered": "Monday, April 27, 2020 7:58 PM",
-        "latitude": "47.054866",
-        "longitude": "-149.303462",
-        "tags": [
-            "labore",
-            "nisi",
-            "dolor",
-            "sit",
-            "culpa"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Elisa Reid"
-            },
-            {
-                "id": 1,
-                "name": "Fuller Mckee"
-            },
-            {
-                "id": 2,
-                "name": "Snider Cabrera"
-            }
-        ],
-        "greeting": "Hello, Wilcox! You have 9 unread messages.",
-        "favoriteFruit": "banana"
+       "_id":"5f514198ad73a8dfb368c734",
+       "brand":"Ford",
+       "coverageType":"Low",
+       "company":"Qualitas",
+       "price":"2,152.00",
+       "extraCoveragePrice":"244.67",
+       "yearRange":[
+          2008,
+          2011
+       ]
     },
     {
-        "_id": "5f6a910e3838105f455b4f52",
-        "index": 6,
-        "guid": "bffffc38-abfe-48cd-aa4e-071cac6ad159",
-        "isActive": true,
-        "balance": "$2,429.76",
-        "picture": "http://placehold.it/32x32",
-        "age": 34,
-        "eyeColor": "green",
-        "name": {
-            "first": "Cecile",
-            "last": "Norris"
-        },
-        "company": "TECHMANIA",
-        "email": "cecile.norris@techmania.co.uk",
-        "phone": "+1 (940) 428-2524",
-        "address": "514 Bergen Street, Veyo, Palau, 7321",
-        "about": "Minim nisi duis ea elit voluptate consectetur Lorem id eu labore nisi qui dolore. Dolore laborum ea ex ex. Cupidatat commodo nostrud dolore quis elit incididunt duis culpa nulla. Laboris ipsum esse eu ut commodo dolore fugiat.",
-        "registered": "Sunday, July 1, 2018 7:41 PM",
-        "latitude": "-41.288139",
-        "longitude": "168.128753",
-        "tags": [
-            "laboris",
-            "dolore",
-            "id",
-            "incididunt",
-            "non"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Marie Campbell"
-            },
-            {
-                "id": 1,
-                "name": "Katheryn Lester"
-            },
-            {
-                "id": 2,
-                "name": "Soto Kline"
-            }
-        ],
-        "greeting": "Hello, Cecile! You have 5 unread messages.",
-        "favoriteFruit": "strawberry"
+       "_id":"5f514198cb794feaf8ad3c54",
+       "brand":"Chevrolet",
+       "coverageType":"High",
+       "company":"MAPFRE",
+       "price":"2,760.82",
+       "extraCoveragePrice":"313.57",
+       "yearRange":[
+          2004,
+          2011
+       ]
     },
     {
-        "_id": "5f6a910ea5b2295a4e96ed7b",
-        "index": 7,
-        "guid": "bc4d5cb3-7f27-4cff-8604-48425219919a",
-        "isActive": false,
-        "balance": "$2,240.26",
-        "picture": "http://placehold.it/32x32",
-        "age": 28,
-        "eyeColor": "brown",
-        "name": {
-            "first": "Stout",
-            "last": "Key"
-        },
-        "company": "DEMINIMUM",
-        "email": "stout.key@deminimum.org",
-        "phone": "+1 (840) 557-3112",
-        "address": "401 Luquer Street, Smock, Utah, 6948",
-        "about": "Nostrud occaecat labore eiusmod sint mollit aliquip duis. Et cupidatat amet quis cupidatat consequat aliquip nulla sint laborum sint tempor id sunt. Officia sunt elit enim ipsum in.",
-        "registered": "Sunday, September 15, 2019 11:59 AM",
-        "latitude": "-17.25178",
-        "longitude": "-88.681789",
-        "tags": [
-            "incididunt",
-            "esse",
-            "tempor",
-            "aute",
-            "irure"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Ines Hull"
-            },
-            {
-                "id": 1,
-                "name": "Kathleen Collins"
-            },
-            {
-                "id": 2,
-                "name": "Mary Burns"
-            }
-        ],
-        "greeting": "Hello, Stout! You have 6 unread messages.",
-        "favoriteFruit": "apple"
+       "_id":"5f514198102855eb69879ab9",
+       "brand":"Mazda",
+       "coverageType":"Mid",
+       "company":"Qualitas",
+       "price":"2,434.37",
+       "extraCoveragePrice":"201.45",
+       "yearRange":[
+          2008,
+          2015
+       ]
     },
     {
-        "_id": "5f6a910e96585fa3786c7495",
-        "index": 8,
-        "guid": "3bcd36ac-c47d-41e6-b746-20933d321a37",
-        "isActive": false,
-        "balance": "$3,333.83",
-        "picture": "http://placehold.it/32x32",
-        "age": 37,
-        "eyeColor": "brown",
-        "name": {
-            "first": "Olga",
-            "last": "Osborn"
-        },
-        "company": "COMVEX",
-        "email": "olga.osborn@comvex.us",
-        "phone": "+1 (964) 404-2567",
-        "address": "221 Dennett Place, Derwood, Guam, 2549",
-        "about": "Dolor elit mollit dolore ut exercitation Lorem. Occaecat incididunt officia anim mollit velit nisi do occaecat ex. Cillum veniam consequat elit excepteur anim eu esse est velit veniam pariatur sint excepteur. Nulla mollit eu cillum deserunt.",
-        "registered": "Sunday, March 31, 2019 1:04 PM",
-        "latitude": "52.615055",
-        "longitude": "107.930022",
-        "tags": [
-            "excepteur",
-            "proident",
-            "commodo",
-            "do",
-            "est"
-        ],
-        "range": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8,
-            9
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Mathis Sweet"
-            },
-            {
-                "id": 1,
-                "name": "Melinda Rollins"
-            },
-            {
-                "id": 2,
-                "name": "Sherman Sears"
-            }
-        ],
-        "greeting": "Hello, Olga! You have 5 unread messages.",
-        "favoriteFruit": "strawberry"
+       "_id":"5f514198814ec7ec0b56f288",
+       "brand":"Chevrolet",
+       "coverageType":"Mid",
+       "company":"Seguros Atlas",
+       "price":"3,592.00",
+       "extraCoveragePrice":"222.93",
+       "yearRange":[
+          2002,
+          2014
+       ]
+    },
+    {
+       "_id":"5f5141982b93adda8f624e13",
+       "brand":"GMC",
+       "coverageType":"RC",
+       "company":"MAPFRE",
+       "price":"1,603.20",
+       "extraCoveragePrice":"317.29",
+       "yearRange":[
+          2001,
+          2016
+       ]
+    },
+    {
+       "_id":"5f5141985388af4239ecfb2d",
+       "brand":"Ford",
+       "coverageType":"Mid",
+       "company":"Qualitas",
+       "price":"3,857.12",
+       "extraCoveragePrice":"398.85",
+       "yearRange":[
+          2008,
+          2010
+       ]
+    },
+    {
+       "_id":"5f514198fa3d3e62372f965e",
+       "brand":"Honda",
+       "coverageType":"Low",
+       "company":"MAPFRE",
+       "price":"3,901.88",
+       "extraCoveragePrice":"114.22",
+       "yearRange":[
+          2002,
+          2018
+       ]
+    },
+    {
+       "_id":"5f514198d64c609cb8d123de",
+       "brand":"Chevrolet",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"2,517.90",
+       "extraCoveragePrice":"352.02",
+       "yearRange":[
+          2005,
+          2010
+       ]
+    },
+    {
+       "_id":"5f514198d96133a15fb65aad",
+       "brand":"Honda",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"1,305.09",
+       "extraCoveragePrice":"356.39",
+       "yearRange":[
+          2007,
+          2016
+       ]
+    },
+    {
+       "_id":"5f514198d0b8286b04f94b16",
+       "brand":"Chevrolet",
+       "coverageType":"High",
+       "company":"Seguros Monterrey",
+       "price":"2,435.41",
+       "extraCoveragePrice":"146.34",
+       "yearRange":[
+          2010,
+          2011
+       ]
+    },
+    {
+       "_id":"5f514198a950f5487d744433",
+       "brand":"GMC",
+       "coverageType":"RC",
+       "company":"Seguros Monterrey",
+       "price":"2,542.46",
+       "extraCoveragePrice":"195.08",
+       "yearRange":[
+          2009,
+          2020
+       ]
+    },
+    {
+       "_id":"5f51419898e3e2d93de15050",
+       "brand":"Honda",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"2,365.78",
+       "extraCoveragePrice":"382.02",
+       "yearRange":[
+          2004,
+          2016
+       ]
+    },
+    {
+       "_id":"5f5141989e8d806a383a486d",
+       "brand":"Chevrolet",
+       "coverageType":"Mid",
+       "company":"MAPFRE",
+       "price":"2,068.09",
+       "extraCoveragePrice":"389.95",
+       "yearRange":[
+          2009,
+          2016
+       ]
+    },
+    {
+       "_id":"5f5141986b834541b560d44d",
+       "brand":"Honda",
+       "coverageType":"High",
+       "company":"Seguros Atlas",
+       "price":"2,378.80",
+       "extraCoveragePrice":"276.79",
+       "yearRange":[
+          2002,
+          2015
+       ]
+    },
+    {
+       "_id":"5f514198134aa394593087aa",
+       "brand":"Honda",
+       "coverageType":"Mid",
+       "company":"MAPFRE",
+       "price":"3,449.79",
+       "extraCoveragePrice":"243.08",
+       "yearRange":[
+          2009,
+          2012
+       ]
+    },
+    {
+       "_id":"5f5141989f28c1f26821e7a7",
+       "brand":"Dodge",
+       "coverageType":"Mid",
+       "company":"Seguros Monterrey",
+       "price":"3,912.02",
+       "extraCoveragePrice":"304.04",
+       "yearRange":[
+          2003,
+          2018
+       ]
+    },
+    {
+       "_id":"5f514198c596b68d5d838125",
+       "brand":"Ford",
+       "coverageType":"Mid",
+       "company":"Qualitas",
+       "price":"3,333.57",
+       "extraCoveragePrice":"318.19",
+       "yearRange":[
+          2001,
+          2013
+       ]
+    },
+    {
+       "_id":"5f5141980755d643756fd15f",
+       "brand":"Ford",
+       "coverageType":"High",
+       "company":"Seguros Atlas",
+       "price":"2,973.53",
+       "extraCoveragePrice":"201.54",
+       "yearRange":[
+          2010,
+          2015
+       ]
+    },
+    {
+       "_id":"5f514198565d49ec0d0919ba",
+       "brand":"Chevrolet",
+       "coverageType":"High",
+       "company":"MAPFRE",
+       "price":"1,697.97",
+       "extraCoveragePrice":"181.37",
+       "yearRange":[
+          2003,
+          2014
+       ]
+    },
+    {
+       "_id":"5f5141983d80e53c0368705f",
+       "brand":"Ford",
+       "coverageType":"High",
+       "company":"Qualitas",
+       "price":"2,367.92",
+       "extraCoveragePrice":"128.08",
+       "yearRange":[
+          2002,
+          2010
+       ]
+    },
+    {
+       "_id":"5f51419880d92899c98e907a",
+       "brand":"Chevrolet",
+       "coverageType":"RC",
+       "company":"Seguros Monterrey",
+       "price":"1,593.52",
+       "extraCoveragePrice":"137.73",
+       "yearRange":[
+          2000,
+          2019
+       ]
+    },
+    {
+       "_id":"5f514198756a822ce82cd2b8",
+       "brand":"Honda",
+       "coverageType":"Mid",
+       "company":"Seguros Monterrey",
+       "price":"3,602.37",
+       "extraCoveragePrice":"282.57",
+       "yearRange":[
+          2009,
+          2010
+       ]
+    },
+    {
+       "_id":"5f51419883173c6dd5f2b9dd",
+       "brand":"Mazda",
+       "coverageType":"Mid",
+       "company":"Qualitas",
+       "price":"1,305.44",
+       "extraCoveragePrice":"366.44",
+       "yearRange":[
+          2010,
+          2018
+       ]
+    },
+    {
+       "_id":"5f5141981cd6c718382bded7",
+       "brand":"GMC",
+       "coverageType":"High",
+       "company":"Seguros Atlas",
+       "price":"1,945.79",
+       "extraCoveragePrice":"151.25",
+       "yearRange":[
+          2000,
+          2019
+       ]
+    },
+    {
+       "_id":"5f5141983c1c66c1307e9e87",
+       "brand":"Dodge",
+       "coverageType":"Low",
+       "company":"Seguros Atlas",
+       "price":"2,622.92",
+       "extraCoveragePrice":"113.07",
+       "yearRange":[
+          2003,
+          2018
+       ]
+    },
+    {
+       "_id":"5f51419818a75ab13463eeb8",
+       "brand":"Chevrolet",
+       "coverageType":"Low",
+       "company":"MAPFRE",
+       "price":"2,809.37",
+       "extraCoveragePrice":"395.49",
+       "yearRange":[
+          2007,
+          2010
+       ]
+    },
+    {
+       "_id":"5f5141987f2a81a04b041c0f",
+       "brand":"Mazda",
+       "coverageType":"RC",
+       "company":"Qualitas",
+       "price":"1,486.15",
+       "extraCoveragePrice":"383.09",
+       "yearRange":[
+          2006,
+          2016
+       ]
+    },
+    {
+       "_id":"5f5141980474995c8de4e53a",
+       "brand":"Ford",
+       "coverageType":"Mid",
+       "company":"Seguros Atlas",
+       "price":"2,146.70",
+       "extraCoveragePrice":"125.07",
+       "yearRange":[
+          2010,
+          2010
+       ]
+    },
+    {
+       "_id":"5f5141980cf612bf79ae0b56",
+       "brand":"GMC",
+       "coverageType":"High",
+       "company":"Seguros Atlas",
+       "price":"1,735.98",
+       "extraCoveragePrice":"229.21",
+       "yearRange":[
+          2008,
+          2019
+       ]
+    },
+    {
+       "_id":"5f514198ae619e4f88efe547",
+       "brand":"Ford",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"1,980.45",
+       "extraCoveragePrice":"112.38",
+       "yearRange":[
+          2008,
+          2016
+       ]
+    },
+    {
+       "_id":"5f514198677b87e73987be25",
+       "brand":"Chevrolet",
+       "coverageType":"Mid",
+       "company":"Qualitas",
+       "price":"2,835.26",
+       "extraCoveragePrice":"366.19",
+       "yearRange":[
+          2008,
+          2018
+       ]
+    },
+    {
+       "_id":"5f5141986f6ea73f11381dec",
+       "brand":"Mazda",
+       "coverageType":"RC",
+       "company":"Seguros Monterrey",
+       "price":"1,502.73",
+       "extraCoveragePrice":"357.47",
+       "yearRange":[
+          2005,
+          2018
+       ]
+    },
+    {
+       "_id":"5f5141983696020b5def9465",
+       "brand":"Dodge",
+       "coverageType":"RC",
+       "company":"Qualitas",
+       "price":"3,703.74",
+       "extraCoveragePrice":"181.22",
+       "yearRange":[
+          2001,
+          2018
+       ]
+    },
+    {
+       "_id":"5f514198cb9d80e8ef707310",
+       "brand":"Dodge",
+       "coverageType":"Low",
+       "company":"Seguros Atlas",
+       "price":"2,023.09",
+       "extraCoveragePrice":"314.99",
+       "yearRange":[
+          2010,
+          2012
+       ]
+    },
+    {
+       "_id":"5f514198d9b882b060bf3df5",
+       "brand":"Dodge",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"3,206.63",
+       "extraCoveragePrice":"224.99",
+       "yearRange":[
+          2007,
+          2017
+       ]
+    },
+    {
+       "_id":"5f5141986bc4c8ecba79b199",
+       "brand":"GMC",
+       "coverageType":"High",
+       "company":"MAPFRE",
+       "price":"2,236.41",
+       "extraCoveragePrice":"234.15",
+       "yearRange":[
+          2000,
+          2015
+       ]
+    },
+    {
+       "_id":"5f51419839a6671d865ce07e",
+       "brand":"Dodge",
+       "coverageType":"RC",
+       "company":"Qualitas",
+       "price":"2,578.62",
+       "extraCoveragePrice":"100.23",
+       "yearRange":[
+          2007,
+          2012
+       ]
+    },
+    {
+       "_id":"5f514198daa3023238ff88a7",
+       "brand":"Dodge",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"2,240.82",
+       "extraCoveragePrice":"374.74",
+       "yearRange":[
+          2004,
+          2016
+       ]
+    },
+    {
+       "_id":"5f5141982e9b161229b2291e",
+       "brand":"Chevrolet",
+       "coverageType":"RC",
+       "company":"Seguros Atlas",
+       "price":"3,613.74",
+       "extraCoveragePrice":"264.23",
+       "yearRange":[
+          2008,
+          2010
+       ]
+    },
+    {
+       "_id":"5f514198dba374812dbd761f",
+       "brand":"Dodge",
+       "coverageType":"High",
+       "company":"Seguros Atlas",
+       "price":"3,239.78",
+       "extraCoveragePrice":"104.17",
+       "yearRange":[
+          2007,
+          2016
+       ]
+    },
+    {
+       "_id":"5f5141982b55f9b8e0fecee4",
+       "brand":"Dodge",
+       "coverageType":"Mid",
+       "company":"Seguros Atlas",
+       "price":"1,807.32",
+       "extraCoveragePrice":"214.88",
+       "yearRange":[
+          2002,
+          2020
+       ]
+    },
+    {
+       "_id":"5f514198a25f6ce20d1bed9d",
+       "brand":"Dodge",
+       "coverageType":"Low",
+       "company":"Qualitas",
+       "price":"3,039.75",
+       "extraCoveragePrice":"124.41",
+       "yearRange":[
+          2005,
+          2018
+       ]
+    },
+    {
+       "_id":"5f51419846fa644104d34c4f",
+       "brand":"Honda",
+       "coverageType":"RC",
+       "company":"Qualitas",
+       "price":"3,333.79",
+       "extraCoveragePrice":"289.36",
+       "yearRange":[
+          2008,
+          2014
+       ]
+    },
+    {
+       "_id":"5f5141983115238141a2cf02",
+       "brand":"Ford",
+       "coverageType":"Mid",
+       "company":"Seguros Atlas",
+       "price":"2,969.49",
+       "extraCoveragePrice":"236.46",
+       "yearRange":[
+          2004,
+          2012
+       ]
+    },
+    {
+       "_id":"5f514198f6c99f5f2edaaaad",
+       "brand":"Ford",
+       "coverageType":"Low",
+       "company":"Seguros Atlas",
+       "price":"2,252.52",
+       "extraCoveragePrice":"175.01",
+       "yearRange":[
+          2009,
+          2015
+       ]
     }
-]
+ ]
