@@ -5,8 +5,9 @@ module.exports = function (pData) {
     }
 
     function getBestOptions(year) {
-        let result = data.find(obj => obj._id === year)
-        return result
+        return data.filter(insure => 
+            year >= insure.yearRange[0] && 
+            year <= insure.yearRange[1])        
     }
 
     return {
