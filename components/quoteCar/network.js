@@ -1,3 +1,7 @@
+/* 
+    Funcionalidad: crear el router encargado de resolver 
+    la ruta del endpoint quoteCar. 
+*/
 const express = require('express')
 const router = express.Router()
 const controllerCreator = require("./controllerCreator")
@@ -6,6 +10,7 @@ const httpError = require('../../utils/httpError')
 
 router.get('/', quoteCar)
 
+//Función ejecutada para resolver la petición entrante.
 function quoteCar(req, res, next) {
 
     let brand = req.query.brand
@@ -17,6 +22,8 @@ function quoteCar(req, res, next) {
 
 }
 
+// Se valida que el parámetro 'year' sea un valor válido.
+// En caso de que no sea válido, se generará una excepción.
 function validateYear(year) {
     let yearNumer = parseInt(year)
     if (!yearNumer) {
