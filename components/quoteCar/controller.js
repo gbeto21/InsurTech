@@ -1,13 +1,13 @@
-module.exports = function (pData) {
+module.exports = function (dataBaseAccess) {
 
     const COVERAGE_RC = 'RC'
     const COVERAGE_LOW = 'Low'
     const COVERAGE_MID = 'Mid'
     const COVERAGE_HIGH = 'High'
 
-    let data = pData
-    if (!data) {
-        data = require('../../data/data.json')
+    let dataBase = dataBaseAccess
+    if (!dataBase) {
+        dataBase = require('../../databaseaccess/JSON')
     }
 
     function getQuoteCar(brand, year, hasAC) {
@@ -20,19 +20,10 @@ module.exports = function (pData) {
     }
 
     function getQuoteCarByCategory(category, brand, year, hasAC) {
-        let filteredInsures = filterInsure(category, brand, year)
+        let filteredInsures = dataBase.filterByParams(category, brand, year)
         let insuresTotalPrice = calculateTotalPrice(filteredInsures, hasAC)
         let lowestQuote = getLowestQuote(insuresTotalPrice)
         return lowestQuote
-    }
-
-    function filterInsure(category, brand, year) {
-        return data.filter(insure =>
-            insure.coverageType === category &&
-            insure.brand === brand &&
-            year >= insure.yearRange[0] &&
-            year <= insure.yearRange[1]
-        )
     }
 
     function calculateTotalPrice(insures, hasAC) {
@@ -50,7 +41,6 @@ module.exports = function (pData) {
     }
 
     function getLowestQuote(insuranses) {
-
         if (insuranses === false) {
             return
         }

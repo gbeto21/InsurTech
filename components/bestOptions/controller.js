@@ -1,13 +1,11 @@
-module.exports = function (pData) {
-    let data = pData
-    if (!data) {
-        data = require('../../data/data.json')
+module.exports = function (dataBaseAccess) {
+    let dataBase = dataBaseAccess
+    if (!dataBase) {
+        dataBase = require('../../databaseaccess/JSON')
     }
 
     function getBestOptions(year) {
-        return data.filter(insure => 
-            year >= insure.yearRange[0] && 
-            year <= insure.yearRange[1])        
+        return dataBase.filterByYear(year)
     }
 
     return {

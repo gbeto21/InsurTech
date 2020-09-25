@@ -1,5 +1,5 @@
-let store = require('../../data/data.json')
+let dataBaseJSON = require('../../databaseaccess/JSON')
 const controller = require('./controller')
 
-module.exports = controller(store)
+module.exports = controller(dataBaseJSON)
 
