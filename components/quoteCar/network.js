@@ -9,7 +9,7 @@ function quoteCar(req, res, next) {
 
     let brand = req.query.brand
     let year = req.query.year
-    let hasAC = req.query.hasAC
+    let hasAC = (req.query.hasAC === 'true') ? true : false
 
     let data = controllerCreator.getQuoteCar(brand, year, hasAC)
     response.success(req, res, data, 200)
